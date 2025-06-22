@@ -116,6 +116,7 @@ order-sync-tracker/
 
 ---
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
+## Author
+Rajiv Ranjan
+🔗 GitHub: https://github.com/ConnectRajiv
+🔗 LinkedIn: https://linkedin.com/in/connectrajiv
