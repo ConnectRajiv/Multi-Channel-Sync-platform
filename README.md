@@ -52,7 +52,7 @@ This project allows users to:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/order-sync-tracker.git
+git clone https://github.com/ConnectRajiv/Multi-Channel-Sync-platform.git
 cd order-sync-tracker/backend
 
 # Install dependencies
